@@ -1,0 +1,1 @@
+<?php $stmt=$pdo->prepare('SELECT * FROM users WHERE username=? AND password=?');$stmt->execute([$u,$p]);?>

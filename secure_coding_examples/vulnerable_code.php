@@ -1,0 +1,1 @@
+<?php $query="SELECT * FROM users WHERE username='$user' AND password='$pass'";?>

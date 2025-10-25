@@ -1,0 +1,1 @@
+Checklist: parameterized queries, input validation, least privilege, hide SQL errors.
